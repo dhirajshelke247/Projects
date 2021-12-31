@@ -1,0 +1,29 @@
+Introduction
+
+The increase in human population has left scientists searching for arrangements on how to take care of the world. Moreover, people are nowadays deciding to move to cities for growth purpose but it left farms unnoticable. So the solution is Hydroponic system.  Hydroponic is a type of horticulture where yields are developed without soil. This method permits the people to follow the farming practices to the metropolitan region. Also, the truth that no soil is required, permits Hydroponic framework to be performed vertically to save space. It will permit a person to work on more than one crop at the same time. 
+
+Motivation
+
+Motivation is to have a dynamic setup and to design efficient systems in terms of water usage, and a higher crop yield. It helps to reduce inefficient and Destructive farming and increase awareness relating to the benefits of Hydroponics.
+
+Problem Definition
+
+Every plant grown using open agriculture farming, ties up a certain amount of land for a long duration (usually through the growing season). Also the conventional agriculture uses lots of water and Agriculture farming takes lot of time to produce outputs. That’s why we need an efficient solution.
+
+Literature Survey
+	1.The system is composed of a specialized Wireless Sensor Network for monitoring the essential parameters for Hydroponics and control for the pump. It provides the user with a user friendly web-based tool to monitor his crops as well as being appraised by appropriate alarms and warnings. This greatly facilitates the observation of multiple hydroponics greenhouses with minimal effort and need for intervention.
+
+	2. In this work monitoring several parameters is involved, which is achieved with basic sensors and one single micro-controller. Monitoring these parameters not only helps to keep a watch on the system but also data is used for further evaluation of the quality of the harvest for future scientific data analysis. Internet of Things is used to accumulate the data and store it on servers. An Android application can fetch this data, creating a more personalized setup and data. Many people are not aware of this kind of farming; Android application is a better platform to spread the knowledge than any other media.
+
+	3.The automated irrigation system hereby reported, consisted of two components wireless sensor units (WSUs) and a wireless information unit (WIU), linked by radio transceivers that allowed the transfer of soil moisture and temperature data, implementing a WSN that uses ZigBee technology. The WIU has also a GPRS module to transmit the data to a web Configuration of the automated irrigation system. WSUs and a WIU, based on microcontroller, ZigBee, and GPRS technologies.. The information can be remotely monitored online through a graphical application through Internet access devices
+
+	4.In this study, the crops are grown without the use of soil, instead the nutrients from the soil are directly given to the crops by water reservoir. The adequate nutrients that are required by the plants are measured and added to the water reservoir so that the crops get enough nutrients from the water as equal as from the soil. By the intervention of IoT this whole hydroponic system can be automated. All the data from the hydroponic system are sent to the cloud data for the automation purpose. The health condition of the crops is continuously monitored with the help of data that are collected by the sensors and actuators. 
+
+
+Project Scope
+
+This project may have a Mobile & Dynamic setup and this project is developed to design an efficient system in terms of water usage, and a higher crop yield. It will helps to reduce inefficient and destructive farming and increase awareness relating to the benefits of Hydroponics.
+This Project will have Manual Integrations of all the Sensors and other hardware. We are Using IoT Devices like Arduino with sensor interfacing. Besides project scope, there are intangible skills we look to gain as well.
+
+
+Mathematical Model
